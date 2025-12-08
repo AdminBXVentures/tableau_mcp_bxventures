@@ -1,6 +1,4 @@
 *.local
-.env
-.env.*
 build/
 node_modules/
 junit/
